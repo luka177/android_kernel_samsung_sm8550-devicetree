@@ -3574,6 +3574,7 @@
 #include "kalama-gdsc.dtsi"
 #include "video/kalama-vidc.dtsi"
 #include "graphics/gpu/kalama-gpu.dtsi"
+#include "graphics/gpu/kalama-gpu-pwrlevels.dtsi"
 #include "mmrm/kalama-mmrm-test.dtsi"
 #include "mmrm/kalama-mmrm.dtsi"
 #include "audio/kalama-audio.dtsi"
